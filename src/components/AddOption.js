@@ -4,7 +4,6 @@ export default class AddOption extends React.Component {
     state = {
         error : undefined
     }
-    
     handlAddOption = (e) =>{
         e.preventDefault();
         const optionIput = e.target.elements.option.value.trim();
