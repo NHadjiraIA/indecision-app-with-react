@@ -9,9 +9,9 @@ indecision-app-with-react is a takeout app where users add option, and will show
 
 As a user:
 
-- View options added in the app.
+- View the options added in the app.
 - Remove a specific option.
--Remove all the options.
+- Remove all the options.
 - Make a decision by cliking in what I should do button.
 
 
