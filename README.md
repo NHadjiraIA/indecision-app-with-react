@@ -5,10 +5,6 @@ This is an example I wanted to implement just to share my idea of what is webpac
 
 indecision-app-with-react is a takeout app where users add option, and will show the options in the screen then he can make a decision about the options by clicking on the what I should do button.
 
-## Final Product
-
-![ How the App Works](https://github.com/NHadjiraIA/orderpickup/blob/main/pics/noshfeast-useronly.gif)
-
 ## Functionalities
 
 As a user:
